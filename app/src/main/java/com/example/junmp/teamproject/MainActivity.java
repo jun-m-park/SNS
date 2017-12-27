@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
     EditText id_text;
     EditText pw_text;
 
+    String a;
+
     Button btn_login;
     Button btn_signup;
 
